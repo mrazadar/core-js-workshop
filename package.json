@@ -1,0 +1,11 @@
+{
+  "name": "core-js-workshop",
+  "version": "1.0.0",
+  "description": "Core JS workshops at Arbisot helping code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
