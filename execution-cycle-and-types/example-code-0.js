@@ -10,3 +10,31 @@ function foo(b){
   }
   
   console.log(bar(6))
+  
+  
+  /// another example
+  
+  console.log("Murad");
+  
+  setTimeout(function(){
+    console.log("Shoaib")
+  }, 0);
+  
+  console.log("Ihtram");
+  
+  
+  
+  //another example 
+  let n = 0;
+  
+  setTimeout(function(){
+    console.log("When I will run?")
+  }, 10);
+  
+  
+  while(n < 50){
+    console.log(n)
+    n++;
+  }
+  
+  
