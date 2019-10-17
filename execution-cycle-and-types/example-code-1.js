@@ -6,6 +6,6 @@ const timeoutFunc = function(i){
   
   let i =0
   for(i; i < 5; i++){
-    console.log(`for ${i}`);
+    console.log(`for ${i}`);//is a synchronous function
     timeoutFunc(i)
   } 
